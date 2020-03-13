@@ -12,6 +12,17 @@ This Repositiory in to track and maintain the Enactus Aryabhatta Website. Its so
 |6. | Team |
 |---|---|
 
+###  TO-DO:
+|S.No. | ISSUE |
+|---|---|
+|1. | Add Carousel |
+|2. | Add a Payment gateway |
+|3. | Add content and photos |
+|4. | Make progressive app |
+|5. | Final touches |
+|---|---|
+
+
 ### ScreenShots 
 
 ##### coming soon
