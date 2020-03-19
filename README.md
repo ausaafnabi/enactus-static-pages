@@ -1,5 +1,6 @@
 # enactus-static-pages
-This Repositiory aims to track and maintain the Enactus Aryabhatta Website. Its sole work is to develop and deploy the website.
+This Repositiory aims to track and maintain the Enactus Aryabhatta Website.
+Development and deployment are the primary concerns.
 
 ### List of Pages :
 |S.No. | PAGE|
